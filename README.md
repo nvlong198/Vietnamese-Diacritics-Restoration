@@ -1,2 +1,3 @@
 # Vietnamese Diacritics Restoration
-![frequencyword](https://i.imgur.com/zo9nVFn.png)
+![frequencytoken](https://i.imgur.com/zo9nVFn.png)
+![frequencychar](https://i.imgur.com/O22qcW9.png)
